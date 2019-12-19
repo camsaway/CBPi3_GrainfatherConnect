@@ -18,6 +18,10 @@ To Do List;
 1) Find a way for the actors to push back status to CBPi (you can override by manually pressing the buttons and CBPi doesn't know)
 2) Find a better way for managing the BT connection, and re-connects if the connection is lost
 3) Potentially find an option to use the built-in grainfather PID logic
+4) Look at some of the more complex GF features like boil temp, temperature units, etc.
 
 
 Note: this is my first python project so any comments/help/suggestions would be greatly appreciated.
+
+
+# This code is based on/largely copied from https://github.com/john-0/gfx - Full credit to John-0 for his work
