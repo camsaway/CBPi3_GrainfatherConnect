@@ -24,4 +24,5 @@ To Do List;
 Note: this is my first python project so any comments/help/suggestions would be greatly appreciated.
 
 
-# This code is based on/largely copied from https://github.com/john-0/gfx - Full credit to John-0 for his work
+
+* This code is based on/largely copied from https://github.com/john-0/gfx - Full credit to John-0 for his work
